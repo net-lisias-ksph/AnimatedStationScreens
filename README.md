@@ -2,25 +2,11 @@
 
 Let your visitors know what your stations offer.
 
-This is a unofficial, non authorized repository for **Animated Station Screens** for historical reference and troubleshooting.
+This is an unofficial, non authorised repository for **Animated Station Screens** for historical reference and troubleshooting.
 
 
-## Content
-* [Binaries](https://github.com/net-lisias-ksph/AnimatedStationScreens/tree/Archive)
-* Sources
-	+ WiP
+## In a Hurry
+
+* [Latest Release](https://github.com/net-lisias-ksph/AnimatedStationScreens/releases)
+* [Source](https://github.com/net-lisias-ksph/AnimatedStationScreens)
 * [Change Log](./CHANGE_LOG.md)
-
-
-## License
-
-Licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-You are authorised to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/).
-
-
-## References
-
-* [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-enceos/) ROOT
-    + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/151877-*)
-    + [SpaceDock](https://spacedock.info/mod/1057/Animated%20Station%20Screens)
